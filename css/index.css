@@ -1,0 +1,25 @@
+html{
+    font-size:1rem;
+    line-height: 1;
+}
+.painel{
+    width:50%;
+    margin:auto;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+#titulo{
+    margin-top: 20vh;
+    font-size:3rem
+}
+#size{
+    font-size:2rem;
+}
+.button{
+    background-color:#a36aff;
+    padding:1rem 1rem;
+    cursor: pointer;
+    border-radius: 25px;
+}
